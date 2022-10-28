@@ -1,0 +1,47 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #5c5958;
+    text-align: center;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+    border: groove;
+}
+
+h1 {
+    background-color: #f7c7b5;
+}
+
+.nav {
+    display: inline;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    color:#f7c7b5;
+}
+
+p {
+    color: #f7c7b5;
+}
+
+a {
+    color: palevioletred;
+}
+h2 {
+    color:#f7c7b5
+}
+h3 {
+    color:#a8657b
+}
+.rating {
+    display: inline;
+    padding: 100px;
+    padding-top: 10px;
+}
